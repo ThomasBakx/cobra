@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Bakx
+    given-names: Thomas
+  - family-names: Chisari
+    given-names: Nora Elisa
+  - family-names: Vlah
+    given-names: Zvonimir
+  - family-names: Mosteiro Romero
+    given-names: Pablo Javier
+title: "COBRA"
+version: 1.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.16577277
+date-released: 2025-04-14
